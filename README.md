@@ -2,7 +2,7 @@
 Esse foi um projeto que fiz para o curso DevQuest dos gemeos.
 👍🚀
 
-<img src="imagens/projeto-gta.gif" alt="gif da tela de inicio do projeto gta"> 
+{<img src="./"imagens/projeto-gta alt="gif da tela inicial do projeto Gta">}
 
 ## Tecnologias utilizadas
 - HTML
@@ -18,4 +18,4 @@ https://rodrigopimentellima.github.io/projeto-gta/
 
 Esse foi um dos meus primeiros projetos, e atraves dele decidi iniciar o curso do DevQuest.
 
-A ideia era criar um site clone do site oficial  do GTA V da rockstar. 
+A ideia era criar um site clone do site oficial  do GTA V da rockstar. imagens/projeto-gta.gif
